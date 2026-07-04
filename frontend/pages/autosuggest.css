@@ -24,7 +24,7 @@ h1{
     color:rgb(237, 8, 134);
 }
 .tag-line{
-    color:black;
+    color:gray;
 }
 .lens{
     position: relative;
@@ -39,5 +39,9 @@ h1{
     border: 1px solid black;
     width: 40%;
     margin-left: 29%;
-    margin: 0 auto;
+}
+#suggestion-item{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 10px;
 }
