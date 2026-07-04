@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vaishnavi777-arch/AutoSuggestBootcamp.git"
+    "url": "git+https://github.com/Shamita-g/Auto-suggest-bootcamp/tree/main"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Vaishnavi777-arch/AutoSuggestBootcamp/issues"
+    "url": "https://github.com/Shamita-g-arch/Auto-suggest-bootcamp/issues"
   },
-  "homepage": "https://github.com/Vaishnavi777-arch/AutoSuggestBootcamp#readme",
+  "homepage": "https://github.com/Shamita-g-arch/Auto-suggest-bootcamp#readme",
   "dependencies": {
     "express": "^5.2.1"
   }
