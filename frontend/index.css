@@ -9,7 +9,7 @@ h1 {
 
 #nav {
     text-align: center;
-    background-color: rgb(41, 197, 211);
+    background-color: rgb(211, 58, 41);
     height: 25px;
     padding-top: 5px;
     margin-bottom: 5px;
@@ -22,11 +22,11 @@ h1 {
 }
 
 div:hover {
-    background-color: lightblue;
+    background-color: rgb(178, 173, 230);
 }
 
 #p2 {
-    color: blueviolet;
+    color: rgb(195, 226, 43);
 }
 
 #card {
